@@ -1,1 +1,1 @@
-# php-docker-template
+A PHP Docker template i've created to get started with PHP with the help of Docker
